@@ -114,8 +114,7 @@ header .container {
   align-items: center;
   position: relative;
   max-height: 90px;
-  padding-left: 95px;
-  padding-right: 95px;
+  padding-left: 30px;
 }
 
 header .logo img,
@@ -180,7 +179,7 @@ header nav ul {
 }
 
 header nav ul li a {
-  padding: 20px 10px;
+  padding: 20px 15px;
   display: block;
   color: #000; /* Black color for the links */
   text-decoration: none;
