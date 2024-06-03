@@ -487,6 +487,9 @@ header nav ul li a:hover {
   display: block;
   line-height: 1.8;
 }
+.phone {
+  color: var(--paragraph-color);
+}
 @media (max-width: 767px) {
   .contact .content .info address {
     margin-bottom: 30px;
